@@ -1,0 +1,341 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.982766,40.779127 ]
+    },
+    "properties": {
+    "stop_id":400751,
+    "stop_name":"W 72 ST/BROADWAY",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.962462,40.758829 ]
+    },
+    "properties": {
+    "stop_id":401704,
+    "stop_name":"1 AV/E 57 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.991334,40.77023 ]
+    },
+    "properties": {
+    "stop_id":402205,
+    "stop_name":"W 57 ST/11 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.968725,40.760727 ]
+    },
+    "properties": {
+    "stop_id":402214,
+    "stop_name":"E 57 ST/LEXINGTON AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.966804,40.75991 ]
+    },
+    "properties": {
+    "stop_id":402215,
+    "stop_name":"E 57 ST/3 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96486,40.759086 ]
+    },
+    "properties": {
+    "stop_id":402216,
+    "stop_name":"E 57 ST/2 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98481,40.779534 ]
+    },
+    "properties": {
+    "stop_id":403036,
+    "stop_name":"WEST END AV/W 72 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.986337,40.777468 ]
+    },
+    "properties": {
+    "stop_id":403037,
+    "stop_name":"WEST END AV/W 69 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.987276,40.77618 ]
+    },
+    "properties": {
+    "stop_id":403038,
+    "stop_name":"WEST END AV/W 66 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.982719,40.766592 ]
+    },
+    "properties": {
+    "stop_id":403562,
+    "stop_name":"W 57 ST/8 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.971943,40.762047 ]
+    },
+    "properties": {
+    "stop_id":403620,
+    "stop_name":"E 57 ST/MADISON AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.976728,40.764061 ]
+    },
+    "properties": {
+    "stop_id":403621,
+    "stop_name":"W 57 ST/AV OF THE AMERICAS",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.990797,40.77141 ]
+    },
+    "properties": {
+    "stop_id":403626,
+    "stop_name":"WEST END AV/W 59 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.980322,40.765563 ]
+    },
+    "properties": {
+    "stop_id":403736,
+    "stop_name":"W 57 ST/7 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98534,40.767697 ]
+    },
+    "properties": {
+    "stop_id":403984,
+    "stop_name":"W 57 ST/9 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.988149,40.768866 ]
+    },
+    "properties": {
+    "stop_id":403992,
+    "stop_name":"W 57 ST/10 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.989602,40.772991 ]
+    },
+    "properties": {
+    "stop_id":404036,
+    "stop_name":"WEST END AV/W 61 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98841,40.77449 ]
+    },
+    "properties": {
+    "stop_id":404826,
+    "stop_name":"WEST END AV/W 64 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.961795,40.759751 ]
+    },
+    "properties": {
+    "stop_id":405138,
+    "stop_name":"1 AV/E 60 ST",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.974302,40.763031 ]
+    },
+    "properties": {
+    "stop_id":803095,
+    "stop_name":"W 57 ST/5 AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.959889,40.759519 ]
+    },
+    "properties": {
+    "stop_id":903094,
+    "stop_name":"E 60 ST/YORK AV",
+    "stop_desc":"",
+    "zone_id":"",
+    "stop_url":"",
+    "location_type":"0",
+    "parent_station":"1"
+    }
+  }
+]
+}
